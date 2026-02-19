@@ -8,6 +8,7 @@ public class SpringMvcCrMwebAppWithThymeLeafApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringMvcCrMwebAppWithThymeLeafApplication.class, args);
+
 	}
 
 }
